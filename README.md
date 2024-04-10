@@ -1,3 +1,3 @@
 # disney-clone
  
-Trying the disney clone
+Trying the disney+ clone
