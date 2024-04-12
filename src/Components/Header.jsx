@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import disney_logo from '../assets/disney_logo.jpg'
 import {HiHome, HiStar, HiPlayCircle, HiTv} from "react-icons/hi2"
 import { FaSearchengin } from "react-icons/fa";
